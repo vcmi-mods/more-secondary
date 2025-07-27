@@ -25,6 +25,10 @@
 		"more-secondary.unlimited"
 	],
 	"keepDisabled" : false,
+	"chinese" : {
+		"name" : "10个辅助技能",
+		"description" : "允许英雄学习最多10个辅助技能。"
+	},
 	"czech" : {
 		"name" : "10 druhotných dovedností",
 		"description" : "Umožňuje hrdinům naučit se až 10 druhotných dovedností."

@@ -13,6 +13,10 @@
 			"Initial version"
 		]
 	},
+	"chinese" : {
+		"name" : "更多辅助技能",
+		"description" : "这个模组允许英雄学习超过8个辅助技能。"
+	},
 	"czech" : {
 		"name" : "Více druhotných dovedností",
 		"description" : "Tato modifikace umožňuje hrdinům naučit se více než 8 druhotných dovedností."

@@ -25,6 +25,10 @@
 		"more-secondary.16"
 	],
 	"keepDisabled" : true,
+	"chinese" : {
+		"name" : "无限辅助技能",
+		"description" : "允许英雄学习辅助技能数量无限制。"
+	},
 	"czech" : {
 		"name" : "Neomezené druhotné dovednosti",
 		"description" : "Umožňuje hrdinům naučit se neomezený počet druhotných dovedností."
