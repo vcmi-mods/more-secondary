@@ -1,6 +1,6 @@
 # More Secondary Skills
 
-This mod for allows heroes to learn more than the default 8 secondary skills.
+This mod allows heroes to learn more than the default 8 secondary skills.
 
 ## Available Variants
 
