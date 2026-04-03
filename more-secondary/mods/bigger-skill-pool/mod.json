@@ -1,0 +1,20 @@
+{
+	"name" : "Bigger Skill Pool",
+	"description" : "Increases the amount of skill to choose from upon leveling up to 3.",
+	"version" : "1.0",
+	"author" : "",
+	"contact" : "",
+	"modType" : "Mechanics",
+	"compatibility" : {
+		"min" : "1.7.0"
+	},
+	"changelog" : {
+		"1.0" : [
+			"Initial version"
+		]
+	},
+	"polish" : {
+		"name" : "Większa pula zdolności",
+		"description" : "Zwiększa pulę umiejętności, które można rozwinąć podczas zdobywania poziomu do 3."
+	}
+}

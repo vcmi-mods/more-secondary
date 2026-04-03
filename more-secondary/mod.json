@@ -1,7 +1,7 @@
 {
 	"name" : "More Secondary Skills",
 	"description" : "This mod allows heroes to learn more than 8 secondary skills.",
-	"version" : "1.0",
+	"version" : "1.1",
 	"author" : "",
 	"contact" : "",
 	"modType" : "Mechanics",
@@ -9,6 +9,9 @@
 		"min" : "1.7.0"
 	},
 	"changelog" : {
+		"1.1" : [
+			"Bigger Skill Pool submod added"
+		],
 		"1.0" : [
 			"Initial version"
 		]

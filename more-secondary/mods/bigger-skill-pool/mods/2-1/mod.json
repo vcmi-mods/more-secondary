@@ -1,0 +1,30 @@
+{
+	"name" : "2-1 Format",
+	"description" : "The skill pool consists of two already known skills and one new.",
+	"version" : "1.0",
+	"author" : "",
+	"contact" : "",
+	"modType" : "Mechanics",
+	"compatibility" : {
+		"min" : "1.7.0"
+	},
+	"changelog" : {
+		"1.0" : [
+			"Initial version"
+		]
+	},
+	"settings" : {
+		"heroes" : {
+			"levelupTotalSkillsAmount" : 3,
+			"levelupUpgradedSkillsAmount" : 2
+		}
+	},
+	"conflicts" : [
+		"bigger-skill-pool.1-2"
+	],
+	"keepDisabled" : true,
+	"polish" : {
+		"name" : "Format 2-1",
+		"description" : "Pula zdolności składa się z dwóch posiadanych umiejętności oraz jednej nowej."
+	}
+}
