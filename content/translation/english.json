@@ -1,0 +1,20 @@
+{
+	"mod.name" : "More Secondary Skills",
+	"mod.description" : "This mod allows heroes to learn more than 8 secondary skills.",
+	"mod.10.name" : "10 Secondary Skills",
+	"mod.10.description" : "Allows heroes to learn up to 10 secondary skills.",
+	"mod.12.name" : "12 Secondary Skills",
+	"mod.12.description" : "Allows heroes to learn up to 12 secondary skills.",
+	"mod.14.name" : "14 Secondary Skills",
+	"mod.14.description" : "Allows heroes to learn up to 14 secondary skills.",
+	"mod.16.name" : "16 Secondary Skills",
+	"mod.16.description" : "Allows heroes to learn up to 16 secondary skills.",
+	"mod.bigger-skill-pool.name" : "Bigger Skill Pool",
+	"mod.bigger-skill-pool.description" : "Increases the amount of skill to choose from upon leveling up to 3.",
+	"mod.bigger-skill-pool.1-2.name" : "1-2 Format",
+	"mod.bigger-skill-pool.1-2.description" : "The skill pool consists of one already known skill and two new ones.",
+	"mod.bigger-skill-pool.2-1.name" : "2-1 Format",
+	"mod.bigger-skill-pool.2-1.description" : "The skill pool consists of two already known skills and one new.",
+	"mod.unlimited.name" : "Unlimited Secondary Skills",
+	"mod.unlimited.description" : "Allows heroes to learn an unlimited number of secondary skills."
+}

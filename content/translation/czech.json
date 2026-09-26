@@ -1,0 +1,14 @@
+{
+	"mod.name": "Více druhotných dovedností",
+	"mod.description": "Tato modifikace umožňuje hrdinům naučit se více než 8 druhotných dovedností.",
+	"mod.10.name": "10 druhotných dovedností",
+	"mod.10.description": "Umožňuje hrdinům naučit se až 10 druhotných dovedností.",
+	"mod.12.name": "12 druhotných dovedností",
+	"mod.12.description": "Umožňuje hrdinům naučit se až 12 druhotných dovedností.",
+	"mod.14.name": "14 druhotných dovedností",
+	"mod.14.description": "Umožňuje hrdinům naučit se až 14 druhotných dovedností.",
+	"mod.16.name": "16 druhotných dovedností",
+	"mod.16.description": "Umožňuje hrdinům naučit se až 16 druhotných dovedností.",
+	"mod.unlimited.name": "Neomezené druhotné dovednosti",
+	"mod.unlimited.description": "Umožňuje hrdinům naučit se neomezený počet druhotných dovedností."
+}

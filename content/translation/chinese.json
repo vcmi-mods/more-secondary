@@ -1,0 +1,14 @@
+{
+	"mod.name": "更多辅助技能",
+	"mod.description": "这个模组允许英雄学习超过8个辅助技能。",
+	"mod.10.name": "10个辅助技能",
+	"mod.10.description": "允许英雄学习最多10个辅助技能。",
+	"mod.12.name": "12个辅助技能",
+	"mod.12.description": "允许英雄学习最多12个辅助技能。",
+	"mod.14.name": "14个辅助技能",
+	"mod.14.description": "允许英雄学习最多14个辅助技能。",
+	"mod.16.name": "16个辅助技能",
+	"mod.16.description": "允许英雄学习最多16个辅助技能。",
+	"mod.unlimited.name": "无限辅助技能",
+	"mod.unlimited.description": "允许英雄学习辅助技能数量无限制。"
+}

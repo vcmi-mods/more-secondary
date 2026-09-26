@@ -1,0 +1,14 @@
+{
+	"mod.name": "Mehr Sekundär-Fertigkeiten",
+	"mod.description": "Diese Mod erlaubt Helden, mehr als 8 Sekundär-Fertigkeiten zu erlernen.",
+	"mod.10.name": "10 Sekundär-Fertigkeiten",
+	"mod.10.description": "Ermöglicht Helden, bis zu 10 Sekundär-Fertigkeiten zu erlernen.",
+	"mod.12.name": "12 Sekundär-Fertigkeiten",
+	"mod.12.description": "Ermöglicht Helden, bis zu 12 Sekundär-Fertigkeiten zu erlernen.",
+	"mod.14.name": "14 Sekundär-Fertigkeiten",
+	"mod.14.description": "Ermöglicht Helden, bis zu 14 Sekundär-Fertigkeiten zu erlernen.",
+	"mod.16.name": "16 Sekundär-Fertigkeiten",
+	"mod.16.description": "Ermöglicht Helden, bis zu 16 Sekundär-Fertigkeiten zu erlernen.",
+	"mod.unlimited.name": "Unbegrenzte Sekundär-Fertigkeiten",
+	"mod.unlimited.description": "Diese Mod erlaubt Helden, eine unbegrenzte Anzahl an Nebentalenten zu erlernen."
+}

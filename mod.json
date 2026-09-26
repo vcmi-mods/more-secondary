@@ -18,26 +18,44 @@
 	},
 	"chinese" : {
 		"name" : "更多辅助技能",
-		"description" : "这个模组允许英雄学习超过8个辅助技能。"
+		"description" : "这个模组允许英雄学习超过8个辅助技能。",
+		"translations" : [
+			"translation/chinese.json"
+		]
 	},
 	"czech" : {
 		"name" : "Více druhotných dovedností",
-		"description" : "Tato modifikace umožňuje hrdinům naučit se více než 8 druhotných dovedností."
+		"description" : "Tato modifikace umožňuje hrdinům naučit se více než 8 druhotných dovedností.",
+		"translations" : [
+			"translation/czech.json"
+		]
 	},
 	"polish" : {
 		"name" : "Więcej umiejętności pobocznych",
-		"description" : "Ten mod pozwala bohaterom nauczyć się więcej niż 8 umiejętności pobocznych."
+		"description" : "Ten mod pozwala bohaterom nauczyć się więcej niż 8 umiejętności pobocznych.",
+		"translations" : [
+			"translation/polish.json"
+		]
 	},
 	"german" : {
 		"name" : "Mehr Sekundär-Fertigkeiten",
-		"description" : "Diese Mod erlaubt Helden, mehr als 8 Sekundär-Fertigkeiten zu erlernen."
+		"description" : "Diese Mod erlaubt Helden, mehr als 8 Sekundär-Fertigkeiten zu erlernen.",
+		"translations" : [
+			"translation/german.json"
+		]
 	},
 	"ukrainian" : {
 		"name" : "Більше другорядних навичок",
-		"description" : "Цей мод дозволяє героям вивчати більше ніж 8 другорядних навичок."
+		"description" : "Цей мод дозволяє героям вивчати більше ніж 8 другорядних навичок.",
+		"translations" : [
+			"translation/ukrainian.json"
+		]
 	},
 	"russian" : {
 		"name" : "Больше вторичных навыков",
-		"description" : "Этот мод позволяет героям изучать более 8 вторичных навыков."
+		"description" : "Этот мод позволяет героям изучать более 8 вторичных навыков.",
+		"translations" : [
+			"translation/russian.json"
+		]
 	}
 }
